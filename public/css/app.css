@@ -1,0 +1,102 @@
+
+.wizard-v3-content {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.wizard-form{
+    background:#FC636B ;
+    border-radius: 5px;
+}
+
+.wizard-form .wizard-header .heading {
+    color: #ffffff;
+}
+
+.wizard-form .wizard-header p {
+    color: #ffffff;
+}
+
+.form-register .steps li.current a .step-icon{
+    background:  #ffffff;
+}
+
+.zmdi{
+    color: #FC636B;
+}
+
+.form-register .steps .current .step-icon::before, .form-register .steps .current:last-child .step-icon::after, .form-register .steps .done .step-icon::before {
+    background: #f8f9fa;
+}
+
+.form-register .steps .current .step-text, .form-register .steps .done .step-text {
+    color: #f8f9fa;
+}
+
+.form-register .steps li.done a .step-icon
+{
+    background: #f8f9fa;
+}
+
+.form-register .steps li a .step-text {
+    color: #f8f9fa;
+}
+
+.content{
+    background: #ffffff;
+}
+
+.actions ul li a {
+    color: #ffffff;
+}
+.actions ul li a:hover {
+    color: #ffffff;
+}
+.actions ul li {
+    background: #495057;
+}
+.actions ul li:hover {
+    background:  #343a40;
+}
+.inner .form-row .form-holder .label {
+    color: #fc636b;
+}
+.inner .form-row .form-holder .label:focus {
+    color: #fc636b;
+}
+.form-register .content .inner h3 {
+    font-size: 22px;
+    color: #dc3545;
+}
+.loader{
+    position: absolute;
+    z-index: 999999;
+    background-color: #d8ddde;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    display: none;
+}
+
+.loader img{
+    width: 60px;
+    position: absolute;
+    margin-top: 0;
+    margin-left: 0;
+    left: 45%;
+    top: 40%;
+}
+
+.help-block
+{
+    color: red;
+}
+.login-form-container
+{
+    background: #ffffff;
+    border-radius: 5px;
+}
+.form-login .content {
+    margin: 0 20px 0 20px;
+    padding: 35px 55px 55px;
+}
+
